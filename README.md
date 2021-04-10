@@ -1,7 +1,7 @@
 # CourseraWeek4
 
 1) Introduction/Business Problem
-The purpose of this Capstone Project is to make smart and efficient decision on selecting great neighborhood for a new Turkish restaurant opening in Toranto.
+The purpose of this Capstone Project is to make smart and efficient decision on selecting great neighbourhood for a new Turkish restaurant opening in Toronto.
 
 2) Downloading and Prepping Data
 I used Toronto's geospatial coordinate data and in order to obtain the data that is in the table of postal codes I used https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M .
